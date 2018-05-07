@@ -2,7 +2,7 @@
 
 This is a simple Flask app for searching target text from the database
 
-Python/Flask, Bootstarap, MySQL
+Python/Flask, Bootstrap, MySQL
 
 ## How it works
 
